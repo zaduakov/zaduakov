@@ -36,11 +36,11 @@ UI/UX
 
 ## 📊 GitHub статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zaduak&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=zaduakov&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaduak&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaduakov&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zaduak&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=zaduakov&theme=tokyonight)
 
 
 
